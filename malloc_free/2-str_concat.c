@@ -52,3 +52,4 @@ char *str_concat(char *s1, char *s2)
 	nstr[idx] = '\0';
 	return (nstr);
 }
+
