@@ -1,8 +1,8 @@
-#include "dog.h"
+#include "main.c"
 #include <stdlib.h>
 
 
-/**
+/*
  * struct dog - dog class
  *
  * @name: Name of the dog
